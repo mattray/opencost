@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: OpenCost
+Upstream-Contact: OpenCost Maintainers <opencost@kubecost.com>
+Source: https://github.com/opencost/opencost
+
+Files: *
+Copyright: 2022-2024 Cloud Native Computing Foundation
+License: Apache-2.0
